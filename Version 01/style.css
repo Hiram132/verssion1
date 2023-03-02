@@ -1,0 +1,54 @@
+h1{
+    color:rgb(57, 206, 206);
+   }
+
+h2{
+   color:rgb(21, 118, 118);
+  }
+
+  .head{
+   background-color: blanchedalmond;
+   display: flex;
+   justify-content: space-between;
+  }
+
+  .grid{
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+  }
+
+.footer{
+    display: flex;
+    justify-content:space-around;
+    border-bottom: 100cm;
+}
+
+.item{
+    display:flexbox;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item2{
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.titulo{
+    display:flex;
+    justify-content: center;
+}
+
+body{
+    background-color: bisque;
+}
+
+/*.site-description{
+    display: flexbox;
+    flex-direction: row;
+    justify-content:first baseline;
+}
+
+*/
